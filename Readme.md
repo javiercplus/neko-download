@@ -1,5 +1,4 @@
-[https://javiercplus.github.io/neko-download/jwm/
-](https://javiercplus.github.io/neko-download/jwm/)
+[https://javiercplus.github.io/neko-download/jwm/](https://javiercplus.github.io/neko-download/jwm/)
 [https://javiercplus.github.io/neko-download/xfce/](https://javiercplus.github.io/neko-download/xfce/)
 
 [https://javiercplus.github.io/neko-download/kde/](https://javiercplus.github.io/neko-download/kde/)
