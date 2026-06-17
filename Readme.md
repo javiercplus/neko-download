@@ -9,3 +9,5 @@
 [https://javiercplus.github.io/neko-download/lxqt/](https://javiercplus.github.io/neko-download/lxqt/)
 
 [https://javiercplus.github.io/neko-download/matelibre/ ](https://javiercplus.github.io/neko-download/matelibre/ )
+
+[https://javiercplus.github.io/neko-download/niri/](https://javiercplus.github.io/neko-download/niri/)
